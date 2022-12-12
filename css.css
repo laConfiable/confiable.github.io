@@ -1,0 +1,547 @@
+
+
+
+.logo{
+	height: auto;
+	width: 10%;
+	float: left;
+	margin-top: -4%;
+	position: absolute;
+	margin-left: 1%;
+	
+}
+
+
+#text_portada{
+	white-space: pre-wrap;
+	position: absolute;
+	float: left;
+	font-size: 280%;
+	color: white;
+	margin-left: 8%;
+	font-family:  Fantasy;
+
+}
+#imatgePortada{
+	left: 0;
+
+	margin: auto;
+	filter: brightness(35%);
+	width: 100%;
+	height: auto;
+	margin-bottom: 2%;
+	position: absolute;
+}
+
+
+
+header{
+	left: 0;
+top: 0;
+		 overflow: hidden;
+  background-color:#0072c6;
+  padding: 3% 10px;
+}
+#capçalera_baix{
+	
+		border: 1px solid #0072c6;
+	background-color: #0072c6;
+	height: 10em;	
+	width: 100%;
+	margin-top: 10%;
+	
+	
+}
+#capça1{
+	width: 400px;
+	display: inline-block;
+	margin-left: 24%;
+
+	
+}
+#capça2{
+	width: 400px;
+	display: inline-block;
+	margin-left: 11%;
+
+
+}
+.imatgeCapça{
+	width: 100%;
+	height: 220px;
+
+}
+.textCapça{
+	white-space: pre-wrap;
+}
+
+
+.seccio{
+	
+margin-top: 6%
+}
+
+.items{
+	font-family: Arial, sans-serif;
+	font-size: 120%;
+text-decoration: none;
+float: right;
+color: white;
+ text-align: center;
+  padding: 8px;
+  margin-right: 2%;
+}
+header a:hover{
+background-color: #77b6ed;
+border-radius: 10%;
+	
+}
+*,
+*:before,
+*:after{
+	content: "";
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+a:hover:after{
+	width: 100%;
+}
+
+
+
+
+#marginleft{
+	margin-left: 10%;
+	
+
+}
+#centrarTitol{
+	margin-top: 1%;
+	white-space: pre-wrap;
+	text-align: center;
+}
+.titol{
+	font-family: "ＭＳ Ｐゴシック";
+	margin-top: 35%;
+	text-align: center;
+}
+.veureMes{
+	text-align: center;
+	display: block;
+	background-color: #0072c6;
+	color: white;
+	text-decoration: none;
+	width: 25%;
+
+	height: 30px;
+	margin-left: 30%;
+	margin-top: 5%;
+}
+ 
+.informacio{
+	white-space: pre-line;
+	margin-left: 24%;
+	margin-top: 20%;
+	margin-right: 24%;
+	font-family: Times;
+	font-size: 140%;
+}
+.informacio2{
+	white-space: pre-line;
+	margin-left: 24%;
+	margin-top: 5%;
+	margin-right: 24%;
+	font-family: Times;
+	font-size: 140%;
+}
+.titulItem1{
+	white-space: pre-wrap;
+	text-align: center;
+	font-size: 280%;
+	margin-left: 24%;
+	margin-right: 24%;
+	font-family: Lucida Grande, monospace;
+}
+#a{
+	margin-left: 24%;
+	white-space: pre-wrap;
+	font-size: 240%;
+	margin-right: 41%;
+}
+#b{
+	margin-left: 24%;
+	white-space: pre-wrap;
+	font-size: 140%;
+	margin-right: 41%;
+	font-family: Times;
+	margin-top: 2%;
+}
+.x{
+	white-space: pre-wrap;
+	margin-top: 8%;
+	background-color: red;
+	height: 13%;
+	width: 1%;
+	position: absolute;
+	margin-left: 24%;
+}
+.textEntrada{
+	margin-left: 26%;
+	position: absolute;
+	margin-top: 8%;
+	margin-right: 24%;
+	font-family: Candara;
+	font-size: 170%;
+}
+#caixapc{
+	margin-top: -6%;
+	margin-left: 58%;
+	width: 20%;
+	height: auto;
+	float: right;
+	margin-right: 26%;
+	position:absolute;
+}
+iframe{
+	margin-top: 5%;
+	margin-left: 24%;
+	
+	width: 800px;
+	height: 498px;
+}
+#capçalera_baix2{
+	
+		border: 1px solid #0072c6;
+	background-color: #0072c6;
+	height: 10em;	
+	width: 100%;
+	margin-top: 16%;
+}
+
+.contenedorr{
+	margin-left: 40%;
+	
+
+}
+#titulContacte{
+	font-size: 240%;
+	font-family: monospace;
+	text-align: center;
+	margin-top: 4%;
+	margin-bottom: 4%;
+}
+form button{
+
+	width: 20%;
+	height: 40px;
+	margin-left: 39%;
+	margin-top: 6%;
+	color: white;
+	background-color: #0072c6;
+}
+form textarea{
+	border-radius: 20px;
+	height: 60px;
+	margin-top: 2%;
+}
+form input{
+	border-radius: 30px;
+	margin-top: 2%;
+	height: 50px;
+	margin-bottom: 4%;
+}
+form{
+	
+	margin-top: 1%;
+	display: flex;
+	flex-direction: column;
+	width: 40%;
+
+
+}
+#capçalera_baix3{
+	
+		border: 1px solid #0072c6;
+	background-color: #0072c6;
+	height: 10em;	
+	width: 100%;
+	margin-top: 10%;
+}
+
+#capçalera_baix4{
+	
+		border: 1px solid #0072c6;
+	background-color: #0072c6;
+	height: 10em;	
+	width: 100%;
+	margin-top: 20%;
+}
+#imatge-pc{
+	margin-top: 4%;
+	width: 50%;
+	height: auto;
+	margin-left: 10%;
+}
+#titol{
+	margin-top: 5%;
+	margin-left: 10%;
+	font-size: 300%;
+	font-family: inherit;
+}
+#titol2{
+	margin-top: 1%;
+	margin-left: 10%;
+	font-size: 120%;
+	font-family: inherit;
+}
+.text-comp{
+	margin-left: 20%;
+	margin-right: 20%;
+	white-space: pre-wrap;
+	margin-top: 2%;
+	font-size: 140%;
+	font-family: Times New Roman;
+}
+.imatge-components{
+width: 30%;
+height: 320px;
+margin-left: 40%;
+}
+.titol3{
+	margin-top: 5%;
+	margin-bottom: 2%;
+	margin-left: 40%;
+	font-size: 220%;
+}
+#pol-priv{
+	float: right;
+	margin-right: 10%;
+	margin-top: 3%;
+}
+
+@media only screen and (max-width: 700px) {
+#text_portada{
+	white-space: pre-wrap;
+	position: absolute;
+	float: left;
+	font-size: 100%;
+	color: white;
+	margin-left: 6%;
+	font-family:  Fantasy;
+
+}
+.items{
+	font-family: Arial, sans-serif;
+	font-size: 65%;
+text-decoration: none;
+float: right;
+color: white;
+ text-align: center;
+  padding: 2px;
+  margin-right: 0%;
+}
+#capça1{
+	width: 400px;
+	display: inline-block;
+	margin-left: 4%;
+	
+}
+#capça2{
+	width: 400px;
+	display: inline-block;
+	margin-left: 8%;
+	}
+
+header{
+	width: 100%;
+	display: block;
+	left: 0;
+top: 0;
+		 overflow: hidden;
+  background-color:#0072c6;
+  padding: 3% 10px;
+}
+.imatgeCapça{
+	width: 60%;
+	height: 140px;
+	margin-left: 12%;
+	margin-top: 6%;
+	vertical-align: top;
+}
+.textCapça{
+	white-space: pre-wrap;
+	font-size: 95%;
+}
+.logo{
+	height: auto;
+	width: 14%;
+	float: left;
+	margin-top: -3%;
+	position: absolute;
+	margin-left: 1%;
+	
+}
+
+
+.titulItem1{
+	white-space: pre-wrap;
+	text-align: center;
+	font-size: 200%;
+	margin-left: 2%;
+	margin-right: 2%;
+	font-family: Lucida Grande, monospace;
+}
+#a{
+	margin-left: 13%;
+	white-space: pre-wrap;
+	font-size: 160%;
+	margin-right: 20%;
+}
+#b{
+	margin-left: 13%;
+	white-space: pre-wrap;
+	font-size: 100%;
+	margin-right: 41%;
+	font-family: Times;
+	margin-top: 2%;
+}
+.x{
+	white-space: pre-wrap;
+	margin-top: 8%;
+	background-color: red;
+	height: 13%;
+	width: 1%;
+	position: absolute;
+	margin-left: 12%;
+}
+.textEntrada{
+	margin-left: 14%;
+	position: absolute;
+	margin-top: 8%;
+	margin-right: 24%;
+	font-family: Candara;
+	font-size: 100%;
+}
+.informacio{
+	white-space: pre-line;
+	margin-left: 13%;
+	margin-top: 40%;
+	
+	font-family: Times;
+	font-size: 100%;
+}
+.informacio2{
+	white-space: pre-line;
+	margin-left: 13%;
+	
+	margin-right: 13%;
+	font-family: Times;
+	font-size: 100%;
+}
+#caixapc{
+	margin-top: 2%;
+	margin-left: 58%;
+	width: 20%;
+	height: auto;
+	float: right;
+	margin-right: 26%;
+	position:absolute;
+}
+iframe{
+	margin-top: 5%;
+	margin-left: 13%;
+	width: 60%;
+	height: auto;
+}
+#capçalera_baix2{
+	
+		border: 1px solid #0072c6;
+	background-color: #0072c6;
+	height: 10em;	
+	width: 100%;
+	margin-top: 16%;
+}
+.contenedorr{
+	margin-left: 20%;
+}
+
+#titulContacte{
+	text-align: center;
+	font-size: 160%;
+	margin-top: 6%;
+	margin-bottom: 4%;
+}
+form button{
+	width: 70%;
+	height: 40px;
+	margin-left: 60%;
+	margin-top: 6%;
+	color: white;
+	background-color: #0072c6;
+}
+form textarea{
+
+	height: 60px;
+	width: 200%;
+	margin-top: 2%;
+}
+form input{
+	
+	width: 200%;
+	margin-top: 2%;
+	height: 50px;
+	margin-bottom: 4%;
+}
+form{
+	
+	margin-top: 1%;
+	display: flex;
+	flex-direction: column;
+	width: 40%;
+
+
+}
+
+#imatge-pc{
+	margin-top: 4%;
+	width: 70%;
+	height: auto;
+	margin-left: 10%;
+}
+#titol{
+	margin-top: 5%;
+	margin-left: 10%;
+	font-size: 200%;
+	font-family: inherit;
+}
+#titol2{
+	margin-top: 1%;
+	margin-left: 10%;
+	font-size: 100%;
+	font-family: inherit;
+}
+div p{
+	margin-left: 20%;
+	margin-right: 20%;
+	white-space: pre-wrap;
+	margin-top: 2%;
+	font-size: 140%;
+	font-family: Times New Roman;
+}
+.imatge-components{
+width: 30%;
+height: 100px;
+margin-left: 40%;
+}
+.titol3{
+	margin-top: 5%;
+	margin-bottom: 2%;
+	margin-left: 16%;
+	font-size: 220%;
+}
+
+
+
+}
